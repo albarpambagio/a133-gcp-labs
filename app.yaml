@@ -1,4 +1,4 @@
-runtime: php80
+runtime: php74
 env: standard
 service: frontend
 
